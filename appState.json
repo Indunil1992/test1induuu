@@ -1,0 +1,100 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "a9c48f9c-4d6e-4771-bb81-cfafd2d125c5": {
+        "id": "a9c48f9c-4d6e-4771-bb81-cfafd2d125c5",
+        "parent": null,
+        "name": "test1induuu.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "test1induuu.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": []
+        },
+        "triggers": [
+          {
+            "resourceName": "apigusEast1sachithraAPIname1111options",
+            "config": {}
+          }
+        ]
+      }
+    },
+    "openFiles": [
+      "a9c48f9c-4d6e-4771-bb81-cfafd2d125c5"
+    ],
+    "currentFileId": "a9c48f9c-4d6e-4771-bb81-cfafd2d125c5",
+    "resources": {
+      "apigusEast1sachithraAPIname1111options": {
+        "name": "apigusEast1sachithraAPIname1111options",
+        "type": "API_GATEWAY",
+        "config": {
+          "selectedRegion": "us-east-1",
+          "apiMode": 1,
+          "apiName": "sachithraAPIname",
+          "apiId": "052p9kjn18",
+          "endpointType": "REGIONAL",
+          "rootResourceId": "zrjp6rdv3b",
+          "existingResources": {
+            "/1111": "0rjsnt",
+            "/": "zrjp6rdv3b"
+          },
+          "resourceMode": 1,
+          "resourcePath": "/1111",
+          "resourceName": "1111",
+          "resourceId": "0rjsnt",
+          "restMethod": "OPTIONS",
+          "proxyIntegration": false,
+          "enableCORS": false,
+          "stageMode": 1,
+          "stageName": "Test",
+          "stageDeploymentId": "x2t3au",
+          "mode": 1
+        }
+      }
+    },
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "test1induuu",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "platformRegions": {},
+    "lastSave": 1584085085674,
+    "language": "nodejs"
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "test1induuu",
+      "url": "https://github.com/Indunil1992/test1induuu"
+    }
+  }
+}
